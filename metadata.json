@@ -1,0 +1,6 @@
+{
+  "name": "A-Share Quant Bot Dashboard",
+  "description": "Interactive command center for managing A-share stock analysis, backtesting, strategy configurations, and data export matching your local Telegram Bot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
